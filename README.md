@@ -1,1 +1,1 @@
-# drqn_pomdp
+DRQN for Tiger POMDP
